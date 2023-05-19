@@ -1,0 +1,2 @@
+# ReactConditionalRendering_withThe_TernaryOperator_AND_Operator
+Created with CodeSandbox
